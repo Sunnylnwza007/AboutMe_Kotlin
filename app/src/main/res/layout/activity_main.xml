@@ -12,6 +12,6 @@
             android:text="@string/name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/textView"
-            android:textSize="@dimen/text_size"
-            android:textAlignment="center"/>
+            android:textAlignment="center"
+            style="@style/NameStyle"/>
 </LinearLayout>
